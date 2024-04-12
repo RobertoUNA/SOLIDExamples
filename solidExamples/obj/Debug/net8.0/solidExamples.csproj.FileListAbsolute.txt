@@ -1,0 +1,14 @@
+C:\Users\campo\source\repos\solidExamples\solidExamples\bin\Debug\net8.0\solidExamples.exe
+C:\Users\campo\source\repos\solidExamples\solidExamples\bin\Debug\net8.0\solidExamples.deps.json
+C:\Users\campo\source\repos\solidExamples\solidExamples\bin\Debug\net8.0\solidExamples.runtimeconfig.json
+C:\Users\campo\source\repos\solidExamples\solidExamples\bin\Debug\net8.0\solidExamples.dll
+C:\Users\campo\source\repos\solidExamples\solidExamples\bin\Debug\net8.0\solidExamples.pdb
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.AssemblyInfoInputs.cache
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.AssemblyInfo.cs
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.csproj.CoreCompileInputs.cache
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.dll
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\refint\solidExamples.dll
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.pdb
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\solidExamples.genruntimeconfig.cache
+C:\Users\campo\source\repos\solidExamples\solidExamples\obj\Debug\net8.0\ref\solidExamples.dll
